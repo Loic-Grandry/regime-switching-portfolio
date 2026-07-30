@@ -1,0 +1,14 @@
+# données (reconstruites via fetch_data.py)
+data_etf_20years.csv
+returns_etf_20years.csv
+*.csv
+# python / jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+venv/
+.venv/
+# secrets
+.env
+# macOS
+.DS_Store
