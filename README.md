@@ -1,7 +1,7 @@
 # Regime-switching correlations for minimum-variance portfolios
 
 This project studies whether letting the correlations between assets change with market conditions
-improves a minimum-variance portfolio. It was the empirical part of my master's thesis in
+improves a minimum-variance portfolio. It was the empirical part of my academic paper in
 econometrics.
 
 ## The idea, in plain terms
